@@ -1,7 +1,6 @@
-
 .main{
-  width:200px;
-  background-color: purple;
+    width: 200px;
+    background-color: purple;
     border-left: 5px solid green;
     padding: 10px;
     
@@ -10,3 +9,4 @@
     color: white;
     font-size: 20px;
 }
+
